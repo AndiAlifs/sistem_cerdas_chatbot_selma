@@ -1,0 +1,221 @@
+{
+    "entities": {
+        "seleksi_masuk": [
+            {
+                "tag": "snmptn",
+                "pattern": [
+                    "seleksi nasional",
+                    "snmptn",
+                    "jalur undangan",
+                    "jalur prestasi"
+                ]
+            },
+            {
+                "tag": "sbmptn",
+                "pattern": [
+                    "seleksi bersama",
+                    "sbmptn",
+                    "utbk"
+                ]
+            },
+            {
+                "tag": "afirmasi",
+                "pattern": [
+                    "afirmasi",
+                    "jalur khusus",
+                    "jalur khusus lainnya"
+                ]
+            },
+            {
+                "tag": "mandiri",
+                "pattern": [
+                    "mandiri",
+                    "jalur mandiri",
+                    "jalur mandiri lainnya"
+                ]
+            },
+            {
+                "tag": "reguler",
+                "pattern": [
+                    "reguler",
+                    "jalur reguler",
+                    "jalur reguler lainnya"
+                ]
+            }
+        ],
+        "fakultas":[
+            {
+                "tag": "filkom",
+                "pattern": [
+                    "fakultas ilmu komputer",
+                    "filkom",
+                    "ilmu komputer"
+                ]
+            },
+            {
+                "tag": "fisip",
+                "pattern": [
+                    "fakultas ilmu sosial dan ilmu politik",
+                    "fisip",
+                    "ilmu sosial dan ilmu politik",
+                    "sosial",
+                    "politik"
+                ]
+            },
+            {
+                "tag": "fk",
+                "pattern": [
+                    "fk",
+                    "kedokteran",
+                    "fakultas kedokteran"
+                ]
+            },
+            {
+                "tag": "fkh",
+                "pattern": [
+                    "fkh",
+                    "kedokteran hewan",
+                    "fakultas kedokteran hewan"
+                ]
+            },
+            {
+                "tag": "fkg",
+                "pattern": [
+                    "fkg",
+                    "kedokteran gigi",
+                    "fakultas kedokteran gigi",
+                    "gigi"
+                ]
+            },
+            {
+                "tag": "feb",
+                "pattern": [
+                    "feb",
+                    "ekonomi dan bisnis",
+                    "fakultas ekonomi dan bisnis",
+                    "ekonomi",
+                    "bisnis"
+                ]
+            },
+            {
+                "tag": "fia",
+                "pattern": [
+                    "fia",
+                    "ilmu admnistrai",
+                    "fakultas ilmu administrasi",
+                    "administrasi"
+                ]
+            }
+        ],
+        "prodi":[
+            {
+                "tag": "sistem informasi",
+                "fakultas": "filkom",
+                "pattern": [
+                    "sistem informasi",
+                    "si"
+                ]
+            },
+            {
+                "tag": "teknik informatika",
+                "fakultas": "filkom",
+                "pattern": [
+                    "teknik informatika",
+                    "ti"
+                ]
+            },
+            {
+                "tag": "teknik industri",
+                "fakultas": "ft",
+                "pattern": [
+                    "teknik industri",
+                    "ti",
+                    "tekdus"
+                ]
+            },
+            {
+                "tag": "teknik mesin",
+                "fakultas": "ft",
+                "pattern": [
+                    "teknik mesin",
+                    "tm",
+                    "mesin"
+                ]
+            },
+            {
+                "tag": "teknik sipil",
+                "fakultas": "ft",
+                "pattern": [
+                    "teknik sipil",
+                    "ts",
+                    "teksip"
+                ]
+            },
+            {
+                "tag": "teknik elektro",
+                "fakultas": "ft",
+                "pattern": [
+                    "teknik elektro",
+                    "te",
+                    "elektro"
+                ]
+            },
+            {
+                "tag": "teknik arsitektur",
+                "fakultas": "ft",
+                "pattern": [
+                    "teknik arsitektur",
+                    "arsitektur"
+                ]
+            },
+            {
+                "tag": "teknik geofisika",
+                "fakultas": "ft",
+                "pattern": [
+                    "teknik geofisika"
+                ]
+            }
+        ],
+        "jenjang":[
+            {
+                "tag": "s1",
+                "pattern": [
+                    "s1",
+                    "sarjana",
+                    "sarjana 1",
+                    "sarjana satu",
+                    "satu",
+                    "satu"
+                ]
+            },
+            {
+                "tag": "s2",
+                "pattern": [
+                    "s2",
+                    "magister",
+                    "magister 2",
+                    "magister dua",
+                    "dua"
+                ]
+            },
+            {
+                "tag": "s3",
+                "pattern": [
+                    "s3",
+                    "doktor",
+                    "doktor 3",
+                    "doktor tiga",
+                    "tiga"
+                ]
+            },
+            {
+                "tag": "profesi",
+                "pattern": [
+                    "profesi",
+                    "pendidikan profesi",
+                    "spesialis"
+                ]
+            }
+        ]
+    }
+}
