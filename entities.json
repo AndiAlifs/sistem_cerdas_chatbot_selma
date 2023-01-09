@@ -42,6 +42,21 @@
                     "jalur reguler lainnya"
                 ]
             }
+            {
+                "tag": "rapor",
+                "pattern": [
+                    "nilai rapor",
+                    "jalur nilai rapor"
+                ]
+            }
+            {
+                "tag": "utbk",
+                "pattern": [
+                    "nilai utbk",
+                    "jalur nilai utbk"
+                ]
+            }
+            
         ],
         "fakultas":[
             {
@@ -104,6 +119,12 @@
                     "ilmu admnistrai",
                     "fakultas ilmu administrasi",
                     "administrasi"
+                ]
+            },
+            {
+                "tag": "vokasi",
+                "pattern": [
+                    "diploma"
                 ]
             }
         ],
@@ -223,7 +244,27 @@
                     "pendidikan profesi",
                     "spesialis"
                 ]
-            }
+            },
+            {
+                "tag": "d3",
+                "pattern": [
+                    "diploma",
+                    "diploma 3",
+                    "diploma tiga",
+                    "diploma iii",
+                    "tiga"
+                ]
+            },
+            {
+                "tag": "d4",
+                "pattern": [
+                    "diploma",
+                    "diploma 4",
+                    "diploma empat",
+                    "diploma iv",
+                    "empat"
+                ]
+            },
         ]
     }
 }
