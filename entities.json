@@ -41,14 +41,14 @@
                     "jalur reguler",
                     "jalur reguler lainnya"
                 ]
-            }
+            },
             {
                 "tag": "rapor",
                 "pattern": [
                     "nilai rapor",
                     "jalur nilai rapor"
                 ]
-            }
+            },
             {
                 "tag": "utbk",
                 "pattern": [
