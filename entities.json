@@ -122,8 +122,58 @@
                 ]
             },
             {
+                "tag": "ft",
+                "pattern": [
+                    "ft",
+                    "fakultas teknik",
+                    "teknik"
+                ]
+            },
+            {
+                "tag": "ftp",
+                "pattern": [
+                    "ftp",
+                    "fakultas teknologi pertanian",
+                    "teknologi pertanian"
+                ]
+            },
+            {
+                "tag": "fp",
+                "pattern": [
+                    "fp",
+                    "fakultas pertanian",
+                    "pertanian"
+                ]
+            },
+            {
+                "tag": "fapet",
+                "pattern": [
+                    "fapet",
+                    "fakultas peternakan",
+                    "peternakan"
+                ]
+            },
+            {
+                "tag": "fpik",
+                "pattern": [
+                    "fpik",
+                    "fakultas perikanan dan ilmu kelautan",
+                    "perikanan",
+                    "ilmu kelautan"
+                ]
+            },
+            {
+                "tag": "fh",
+                "pattern": [
+                    "fh",
+                    "fakultas hukum",
+                    "hukum"
+                ]
+            },
+            {
                 "tag": "vokasi",
                 "pattern": [
+                    "vokasi",
                     "diploma"
                 ]
             }
@@ -203,7 +253,133 @@
                     "kedokteran",
                     "fk"
                 ]
-            }
+            },
+            {
+                "tag": "ilmu administrasi negara",
+                "fakultas": "fia",
+                "pattern":[
+                    "ilmu administrasi negara",
+                    "fia"
+                ]
+            },
+            {
+                "tag": "ilmu administrasi niaga",
+                "fakultas": "fia",
+                "pattern":[
+                    "ilmu administrasi niaga",
+                    "fia"
+                ]
+            },
+            {
+                "tag": "ilmu perpustakaan",
+                "fakultas": "fia",
+                "pattern":[
+                    "ilmu perpustakaan",
+                    "fia"
+                ]
+            },
+            {
+                "tag": "pariwisata",
+                "fakultas": "fia",
+                "pattern":[
+                    "pariwisata",
+                    "fia"
+                ]
+            },
+            {
+                "tag": "administrasi pendidikan",
+                "fakultas": "fia",
+                "pattern":[
+                    "administrasi pendidikan",
+                    "fia"
+                ]
+            },
+            {
+                "tag": "perpajakan",
+                "fakultas": "fia",
+                "pattern":[
+                    "perpajakan",
+                    "fia"
+                ]
+            },
+            {
+                "tag": "sarjana ilmu hukum",
+                "fakultas": "fh",
+                "pattern":[
+                    "sarjana ilmu hukum",
+                    "ilmu hukum",
+                    "sarjana",
+                    "sih"
+                ]
+            },
+            {
+                "tag": "magister ilmu hukum",
+                "fakultas": "fh",
+                "pattern":[
+                    "magister ilmu hukum",
+                    "ilmu hukum",
+                    "magister"
+                    "mih"
+                ]
+            },
+            {
+                "tag": "magister kenotariatan",
+                "fakultas": "fh",
+                "pattern":[
+                    "magister kenotariatan",
+                    "kenotariatan",
+                    "magister",
+                    "mkn"
+                ]
+            },
+            {
+                "tag": "doktor ilmu hukum",
+                "fakultas": "fh",
+                "pattern":[
+                    "doktor ilmu hukum",
+                    "ilmu hukum",
+                    "doktor",
+                    "dih"
+                ]
+            },
+            {
+                "tag": "doktor ilmu hukum psdku jakarta",
+                "fakultas": "fh",
+                "pattern":[
+                    "doktor ilmu hukum psdku jakarta",
+                    "ilmu hukum",
+                    "doktor",
+                    "psdku",
+                    "dih jakarta"
+                ]
+            },
+            {
+                "tag": "sarjana peternakan",
+                "fakultas": "fapet",
+                "pattern":[
+                    "sarjana peternakan",
+                    "peternakan",
+                    "s1"
+                ]
+            },
+            {
+                "tag": "magister ilmu ternak",
+                "fakultas": "fapet",
+                "pattern":[
+                    "magister ilmu ternak",
+                    "ilmu ternak",
+                    "s2"
+                ]
+            },
+            {
+                "tag": "doktor ilmu ternak",
+                "fakultas": "fapet",
+                "pattern":[
+                    "doktor ilmu ternak",
+                    "ilmu ternak",
+                    "s3"
+                ]
+            },
         ],
         "jenjang":[
             {
@@ -213,7 +389,6 @@
                     "sarjana",
                     "sarjana 1",
                     "sarjana satu",
-                    "satu",
                     "satu"
                 ]
             },
