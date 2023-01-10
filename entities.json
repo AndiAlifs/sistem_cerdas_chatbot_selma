@@ -318,7 +318,7 @@
                 "pattern":[
                     "magister ilmu hukum",
                     "ilmu hukum",
-                    "magister"
+                    "magister",
                     "mih"
                 ]
             },
@@ -379,7 +379,7 @@
                     "ilmu ternak",
                     "s3"
                 ]
-            },
+            }
         ],
         "jenjang":[
             {
